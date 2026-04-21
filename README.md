@@ -1,8 +1,7 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alexander 👋
 
 🎓 MSc Interactive Systems Technologies @ AUTH  
-🔌 Embedded Systems & IoT Enthusiast  
-📡 Interested in Real-Time Systems & Smart Devices  
+🔌 Embedded Systems & IoT Enthusiast    
 
 ---
 
@@ -22,7 +21,7 @@ I enjoy building projects that connect hardware with software — from microcont
 ---
 
 ## 💻 Projects
-
+-IoT-Weather-Station-Arduino-NodeRed
 
 ---
 
