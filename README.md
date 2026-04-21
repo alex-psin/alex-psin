@@ -14,7 +14,7 @@ I enjoy building projects that connect hardware with software — from microcont
 ---
 
 ## 🧠 Currently Learning
-- Embedded Systems Programming (C / Arduino)
+- Embedded Systems Programming (C/C++)
 - IoT Architectures (MQTT, brokers, real-time data)
 - Node.js for device communication
 - Basics of Embedded Security
