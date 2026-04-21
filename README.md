@@ -21,7 +21,7 @@ I enjoy building projects that connect hardware with software — from microcont
 ---
 
 ## 💻 Projects
--IoT-Weather-Station-Arduino-NodeRed
+- IoT-Weather-Station-Arduino-NodeRed
 
 ---
 
