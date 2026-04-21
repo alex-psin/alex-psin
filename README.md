@@ -32,6 +32,7 @@ I enjoy building projects that connect hardware with software — from microcont
 - Node.js (basic)
 - MQTT Protocol
 - MySQL (basic)
+- Networking (CCNA certified)
 
 ---
 
