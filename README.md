@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alex-psin/alex-psin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Interactive Systems Technologies @ AUTH  
+🔌 Embedded Systems & IoT Enthusiast  
+📡 Interested in Real-Time Systems & Smart Devices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a master's student focused on embedded systems and IoT technologies.
+
+I enjoy building projects that connect hardware with software — from microcontrollers and sensors to cloud communication and real-time data processing.
+
+---
+
+## 🧠 Currently Learning
+- Embedded Systems Programming (C / Arduino)
+- IoT Architectures (MQTT, brokers, real-time data)
+- Node.js for device communication
+- Basics of Embedded Security
+
+---
+
+## 💻 Projects
+
+
+---
+
+## 🛠️ Tech Stack
+- C / Arduino
+- Python
+- Node.js (basic)
+- MQTT Protocol
+- MySQL (basic)
+
+---
+
+## 🎯 Goals
+- Gain knowledge through hands-on projects 
+- Gain experience with real-world device communication  
+
+---
