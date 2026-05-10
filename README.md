@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I'm a master's student focused on embedded systems and IoT technologies.
+I'm a mathematics graduate and currently a master's student focused on embedded systems and IoT technologies.
 
 I enjoy building projects that connect hardware with software — from microcontrollers and sensors to cloud communication and real-time data processing.
 
