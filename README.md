@@ -17,6 +17,7 @@ I enjoy building projects that connect hardware with software — from microcont
 - IoT Architectures (MQTT, brokers, real-time data)
 - Node.js for device communication
 - Basics of Embedded Security
+- Optimization techniques (Valgrind)
 
 ---
 
